@@ -1,4 +1,4 @@
-## state-capital-analysis
+# state-capital-analysis
 
 ### Hypotheses
 
