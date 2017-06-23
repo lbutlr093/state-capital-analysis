@@ -14,6 +14,7 @@
 
 
 geopy - Python library to calculate distance between geo coordinates
+
 vincenty method - Method for calculating the distance (Thaddeus Vincenty, 1975)
 
 
