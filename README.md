@@ -25,7 +25,10 @@ Area to Distance ratio - I decided to normalize the states by area. The purpose 
 Data for geographic centers calculated by the USGS (U.S. Geological Survey)
 
 
-### Findings / Conclusion
-It seems that Year Founded and Capital Since are loosely correlated with the distance from center of each state. None of the above hypotheses can be confirmed with the correlation seen.
+### Dashboard
 
 ![alt text](Tableau_Dashboard.png)
+
+
+### Findings / Conclusion
+It seems that Year Founded and Capital Since are loosely correlated with the distance from center of each state. None of the above hypotheses can be confirmed with the correlation seen.
