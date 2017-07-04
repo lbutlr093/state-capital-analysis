@@ -25,6 +25,6 @@ with open('Center_of_States.csv', 'rb') as f:
 		ratio = float(line[5]) / distance 			# Calculate before rounding distance
 		distance = "{0:.2f}".format(distance)		# Round to 2 decimal places
 		ratio = "{0:.2f}".format(ratio)
-		line.extend((distance, ratio))
+		line.extend((distance, ratio)) #
 		writer.writerow(line)
 distance_file.close()
