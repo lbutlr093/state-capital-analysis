@@ -27,3 +27,5 @@ Data for geographic centers calculated by the USGS (U.S. Geological Survey)
 
 ### Findings / Conclusion
 It seems that Year Founded and Capital Since are loosely correlated with the distance from center of each state. None of the above hypotheses can be confirmed with the correlation seen.
+
+![alt text](state-capital-analysis/Tableau_Dashboard.png)
