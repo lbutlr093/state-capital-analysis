@@ -23,7 +23,7 @@ with open('Center_of_States.csv', 'rb') as f:
 		capital_coords = (float(coords1[0]), float(coords1[1]))
 		center_coords = (float(coords2[0]), float(coords2[1]))
 		distance = vincenty(capital_coords, center_coords).miles
-		ratio = math.log10(float(line[6]) / distance) 		# Calculate before rounding distance
+		ratio = math.log10(float(line[7]) / distance) 		# Calculate before rounding distance
 		distance = "{0:.2f}".format(distance)			# Round to 2 decimal places
 		ratio = "{0:.2f}".format(ratio)
 		line.extend((distance, ratio))
